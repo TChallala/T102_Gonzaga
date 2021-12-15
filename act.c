@@ -24,7 +24,7 @@ int main()
         }
         else{
         num = num * odd1 + odd2;
-        printf("\nCurrrent integer value is: %d\n", num);
+        printf("\nCurrrent integer value is: %d", num);
         }
         }
         return 0;
